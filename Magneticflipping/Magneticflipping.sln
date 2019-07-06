@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Magneticflipping", "Magneticflipping.vcproj", "{CADCBE68-1AD3-4726-8CE6-97018B9324C4}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CADCBE68-1AD3-4726-8CE6-97018B9324C4}.Debug.ActiveCfg = Debug|Win32
+		{CADCBE68-1AD3-4726-8CE6-97018B9324C4}.Debug.Build.0 = Debug|Win32
+		{CADCBE68-1AD3-4726-8CE6-97018B9324C4}.Release.ActiveCfg = Release|Win32
+		{CADCBE68-1AD3-4726-8CE6-97018B9324C4}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
